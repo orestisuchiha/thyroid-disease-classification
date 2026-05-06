@@ -1,6 +1,6 @@
 # Thyroid Disease Classification
 
-This repository contains the final integrated Jupyter notebook for a machine learning project on **binary thyroid disease classification** using the **hypothyroid / A-thyroid dataset**.
+This repository contains the final integrated Jupyter notebook for a machine learning project on **binary thyroid disease classification** using the **hypothyroid dataset** included in this repository.
 
 The project examines how different preprocessing strategies and classification models affect predictive performance, with particular emphasis on:
 
